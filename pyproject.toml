@@ -44,6 +44,10 @@ test = [
     "coverage[toml] >= 6.4.4",
 ]
 
+[project.urls]
+Homepage = "https://github.com/tsangwpx/objectref"
+Source = "https://github.com/tsangwpx/objectref"
+
 [tool.setuptools.dynamic]
 version = { attr = "objectref.__version__" }
 
