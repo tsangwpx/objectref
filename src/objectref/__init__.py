@@ -2,7 +2,7 @@ import importlib
 from typing import Any, Optional, Tuple, Union
 
 __author__ = "Aaron Tsang"
-__version__ = "2023.10.20"
+__version__ = "2023.10.31"
 __all__ = (
     "parse",
     "find",
